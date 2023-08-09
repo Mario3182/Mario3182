@@ -1,4 +1,5 @@
-# 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/21/5c/7f/215c7fdca6033092baa04b35c17466bd.gif">
+💫 About Me:
 Hello! my name is Mario, I am currently studying at Institut Teknologi dan Bisnis Kalbis and majoring in Information Systems. <br>I'm currently going through Semester 7. I'm currently Looking for an Internship that related with my Major For example in Microsoft Office Management, IT Support, UI/UX, Front-End or Back-End, and other stuff that related with Computer stuff. <br>I am willing to learn new things that are needed for the criteria for the internship program that I will participate.
 
 
